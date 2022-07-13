@@ -2,7 +2,7 @@
     background-color: rgb(105, 105, 105);
     overflow: hidden;
   }
-  
+
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
@@ -12,17 +12,17 @@
     text-decoration: none;
     font-size: 17px;
   }
-  
+
   /* Change the color of links on hover */
   .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
-  
+
   .SearchBar{
     float: right;
     font-size: x-large;
-    
+
   }
 
   .TextBox{
@@ -36,7 +36,7 @@
     background-color: rgb(105, 105, 105);
     overflow: hidden;
   }
-  
+
   /* Style the links inside the navigation bar */
   .footer a {
     float: left;
@@ -46,7 +46,7 @@
     text-decoration: none;
     font-size: 17px;
   }
-  
+
   /* Change the color of links on hover */
   .footer a:hover {
     background-color: #ddd;
