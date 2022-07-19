@@ -1,5 +1,6 @@
 <div class="topnav">
 	<a class="active"></a>
+	<img src="coffe logo.png" width="50" height="50">
 	<a href="/">Home</a>
 	<a href="/shops.php">Coffee Shops</a>
 	<a href="/food.php">Takeaway</a>
