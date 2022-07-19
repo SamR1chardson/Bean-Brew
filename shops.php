@@ -12,6 +12,7 @@
   </head>
   <body>
     <?php include("templates/header.php"); ?>
+	<h1>a</h1>
 	<?php include("templates/footer.php"); ?>
   </body>
 </html>
