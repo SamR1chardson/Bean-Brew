@@ -10,15 +10,7 @@
 		</style>
 	</head>
 	<body>
-	<div class="topnav">
-		<a class="active"></a>
-		<a href="/">Home</a>
-		<a href="/shops/">Coffee Shops</a>
-		<a href="/food/">Takeaway</a>
-		<a href="/lessons/">Lessons</a>
-		<a href="/about/">About Us</a>
-		<input class="SearchBar" type="text" placeholder="Search..">
-	</div>
+	<?php include("templates/header.php"); ?>
 	<table>
 		<tr>
 		<th>
@@ -55,13 +47,6 @@
 		</td>
 		</tr>
 	</table>
-	<div class="footer">
-		<a class="active"></a>
-		<a href="/">Home</a>
-		<a href="/shops/">Coffee Shops</a>
-		<a href="/food/">Takeaway</a>
-		<a href="/lessons/">Lessons</a>
-		<a href="/about/">About Us</a>
-	</div>
+	<?php include("templates/footer.php"); ?>
 	</body>
 </html>
