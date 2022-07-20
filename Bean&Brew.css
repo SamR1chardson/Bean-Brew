@@ -1,5 +1,5 @@
 .topnav {
-    background-color: rgb(105, 105, 105);
+    background-color: rgba(92, 91, 91, 0);
     overflow: hidden;
   }
 
@@ -33,7 +33,7 @@
   }
 
   .footer {
-    background-color: rgb(105, 105, 105);
+    background-color: rgb(92, 91, 91);
     overflow: hidden;
   }
 
@@ -49,6 +49,6 @@
 
   /* Change the color of links on hover */
   .footer a:hover {
-    background-color: #ddd;
+    background-color: rgb(49, 49, 49);
     color: black;
   }
